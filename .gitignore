@@ -1,0 +1,13 @@
+##Eclipse Sts##
+.metadata
+.vscode
+target/
+Servers/
+
+
+##Property##
+xml.properties
+*.properties
+
+##Classpath Project Settings##
+.springBeans
